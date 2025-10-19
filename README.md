@@ -10,4 +10,6 @@
 - 🚀 Aspiring and Striving to be a Full Stack and Game Developer 
 - 🧠 Passionate about algorithm optimization, retro-gadgets and pixelart
 - ☕ Coffee lover
-
+- 🌱 I'm currently learning:
+      - C#
+      - Ruby 
