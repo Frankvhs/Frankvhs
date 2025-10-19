@@ -11,5 +11,8 @@
 - 🧠 Passionate about algorithm optimization, retro-gadgets and pixelart
 - ☕ Coffee lover
 - 🌱 I'm currently learning:
-      - C#
-      - Ruby 
+<p align="center">
+      <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cs,ruby" />
+  </a>
+</p>
