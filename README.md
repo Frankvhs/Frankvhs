@@ -4,8 +4,7 @@
 
 <a align="right" target="_blank"><img align="right" height="300" width="400" alt="Retro Coding GIF" src="https://github.com/user-attachments/assets/b91eae27-7ac6-40ed-96a7-a9cca296b408"></a>
 
-👋 Hi, I'm Frank Abel
-- 🏝️ From Habana, Cuba
+💫 **About me:**
 - 🎓 Studying Software Engineering at CUJAE
 - 🚀 Aspiring and Striving to be a Full Stack and Game Developer 
 - 🧠 Passionate about algorithm optimization, retro-gadgets and pixelart
