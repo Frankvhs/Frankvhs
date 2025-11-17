@@ -21,9 +21,9 @@
 
 <br clear="both"/>
 
-<h2 align="center">🛠️ Used technologies</h2>
+<!-- <h2 align="center">🛠️ Used technologies</h2>
 
-<p align="center">
+<!--<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,java,spring,lua,ruby,rails,typescript,html,css,gradle,docker,mysql,redis,bash,md,godot,jest,obsidian,git,github,githubactions,vscode" />
   </a>
